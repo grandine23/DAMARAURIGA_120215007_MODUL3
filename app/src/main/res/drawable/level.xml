@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:drawable="@drawable/ic_2lt"
+        android:minLevel="0"
+        android:maxLevel="0"/>
+    <item
+        android:drawable="@drawable/ic_3lt"
+        android:minLevel="1"
+        android:maxLevel="1"/>
+    <item
+        android:drawable="@drawable/ic_5lt"
+        android:minLevel="2"
+        android:maxLevel="2"/>
+    <item
+        android:drawable="@drawable/ic_6lt"
+        android:minLevel="3"
+        android:maxLevel="3"/>
+    <item
+        android:drawable="@drawable/ic_8lt"
+        android:minLevel="4"
+        android:maxLevel="4"/>
+    <item
+        android:drawable="@drawable/ic_fulltank"
+        android:minLevel="5"
+        android:maxLevel="5"/>
+
+
+
+</level-list>
